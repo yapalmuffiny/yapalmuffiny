@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="right">Howdy, I'm Muffiny</h1>
+<h1 align="left">Howdy, I'm Muffiny</h1>
 
 ###
 
