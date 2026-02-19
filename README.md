@@ -4,10 +4,6 @@
 
 ###
 
-<img align="left" height="200" src="https://images-ext-1.discordapp.net/external/-Hr_fOI9cGSH_tuKlgV_V2Zkv9pBeUXjbCIHCnbbmCc/%3Fsize%3D512/https/cdn.discordapp.com/avatars/764868946523324457/3c0ad80b616940d5da8fb79f8b6e2959.webp?format=webp&width=512&height=512"  />
-
-###
-
 <h1 align="right">Howdy, I'm Muffiny</h1>
 
 ###
